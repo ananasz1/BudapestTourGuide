@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Lengths in dp -->
+    <dimen name="image_margin">4dp</dimen>
+    <dimen name="toolbar_height">50dp</dimen>
+    <dimen name="padding">4dp</dimen>
+    <dimen name="image_height">100dp</dimen>
+    <dimen name="margin">8dp</dimen>
+
+    <!-- Text in sp -->
+    <dimen name="text_size">14sp</dimen>
+    <dimen name="header_text">20sp</dimen>
+
+</resources>

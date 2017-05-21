@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Budapest Tour Guide</string>
+
+    <!--Sights Names -->
+    <string name="buda_castle">Buda Castle</string>
+    <string name="fishermans_bastion">Fisherman\'s Bastion</string>
+    <string name="chain_bridge">Chain Bridge</string>
+    <string name="heroes_square">Heroes\'s Square</string>
+
+    <!--Sights Descriptions -->
+    <string name="budacastle_desc">Buda Castle is the historical castle and palace complex of the Hungarian kings in Budapest, and was first completed in 1265. </string>
+    <string name="fishermans_desc">The Fisherman\'s Bastion is a terrace in neo-Gothic and neo-Romanesque style situated on the Buda bank of the Danube, on the Castle hill in Budapest, around Matthias Church. </string>
+    <string name="chainbridge_desc">The Chain Bridge  is a suspension bridge that spans the River Danube between Buda and Pest, the western and eastern sides of Budapest, the capital of Hungary.</string>
+    <string name="heroes_desc">Heroes Square is one of the major squares in Budapest, Hungary, noted for its iconic statue complex featuring the Seven Chieftains of the Magyars and other important national leaders, as well as the Tomb of the Unknown Soldier. </string>
+
+    <!--Sights Location -->
+    <string name="budacastle_loc">1014 Budapest, Szent György tér 2</string>
+    <string name="fishermans_loc">1014 Budapest, Szentháromság tér</string>
+    <string name="chainbridge_loc">1051 Budapest, Széchenyi Lánchíd</string>
+    <string name="heroes_loc">1146  Budapest, Hősök tere</string>
+
+    <!-- Lookouts -->
+    <string name="boldog">Boldog Özséb Lookout</string>
+    <string name="csergezan">Csergezán Pál Lookout</string>
+    <string name="elizabeth">Elizabeth Lookout</string>
+    <string name="kaan">Kaán Károly Lookout</string>
+
+    <!-- Lookouts Descriptions -->
+    <string name="boldog_desc">Take a walk to the most highest place in the Pilis Mountains is the 757 m high "Pilis Peak" and enjoy the superb view from Boldog Özséb (Blessed Eusebius) Lookout.</string>
+    <string name="csergezan_desc">The look-out tower is barely visible from the roads nearby, its wood structure is well hidden in the forest. It is only accessible from hiking trails, but it appears to the hikers when they are really close.</string>
+    <string name="elizabath_desc">The Elizabeth Lookout is a historic lookout tower on János-hegy above Budapest. Built in 1911, the tower was named after Empress Elisabeth, wife of Emperor Franz Joseph I. Frigyes Schulek was the architect. </string>
+    <string name="kaan_desc">On top of the Nagy-Hárs Hill in the Buda Hills is this lookout where the panorama is really stunning.</string>
+
+    <!-- Lookouts Locations -->
+    <string name="boldog_loc">2098 Pilisszentkereszt, Duna-Ipoly Nemzeti Park</string>
+    <string name="csergezan_loc">2071 Páty, Budai Tájvédelmi körzet</string>
+    <string name="elizabeth_loc">1121 Budapest, Erzsébet kilátó út</string>
+    <string name="kaan_loc">1021  Budapest, Budai Tájvédelmi körzet</string>
+
+    <!-- Restaurants -->
+    <string name="mosselen">Mosselen Belgian Beer Café</string>
+    <string name="koronakert">Koronakert Restaurant</string>
+    <string name="costes">Costes Downtown</string>
+    <string name="mazeltov">Mazel Tov</string>
+
+    <!-- Restaurants Descriptions -->
+    <string name="mosselen_desc">This is such a professional restaurant and bar,the staff are very knowledgeable about the beer\'s they serve and take pride in what they offer their customers.</string>
+    <string name="koronakert_desc">On the menu a wide variety of Hungarian and international dishes, including a selection of fish, poultry and meat dishes; on the wine list a reasonable selection of Hungarian wines and other drinks.</string>
+    <string name="costes_desc">The Costes Downtown was awarded with Michelin Star in 2016 March, shortly after opening. In the restaurant we offer to the gastronomy lovers breakfast, lunch and dinner every day. </string>
+    <string name="mazeltov_desc">A streamline and comforting place focusing on gastronomy in the 7th district, in the middle of the historically jewish quarter, today\'s downtown\'s night-life center. </string>
+
+    <!-- Restaurants Locations -->
+    <string name="mosselen_loc">1136 Budapest, Pannónia u. 14.</string>
+    <string name="koronakert_loc">1161 Budapest, Szent Korona u. 120.</string>
+    <string name="costes_loc">1051 Budapest, Vigyázó Ferenc u. 5.</string>
+    <string name="mazeltov_loc">1072 Budapest, Akácfa u. 47.</string>
+
+    <!-- With Kids -->
+    <string name="zoo"> Budapest ZOO</string>
+    <string name="miniversum">Miniversum</string>
+    <string name="zoocafe">ZOO Café</string>
+    <string name="csopa">CSOPA Science Center</string>
+
+    <!-- With Kids Description -->
+    <string name="zoo_desc">Budapest Zoo and Botanical Garden is the oldest zoo park in Hungary and one of the oldest in the world. It has 1,072 animal species and is located within Városliget Park, unusually for a zoo, it is in the centre of the city.</string>
+    <string name="miniversum_desc">MINIVERSUM is a gigantic, beautifully detailed and decorated model layout featuring many sights and landmarks from Budapest and Hungary – and a bit of Austria and Germany – scaled to 1:100 of original size.</string>
+    <string name="zoocafe_desc">Zoo Cafe is not just an ordinary cafe, it’s more than many free, stunning and exotic animals to present, pet or get to know them.</string>
+    <string name="csopa_desc">The Center of Scientific Wonders is not simply an exhibition, but a 1700 square-meter physics play-house, where over 1700 square-meter physics play-house children learn about the phenomena of physics in a fun way.</string>
+
+    <!-- With Kids Locations -->
+    <string name="zoo_loc">1146 Budapest, Állatkerti krt. 6-12.</string>
+    <string name="miniversum_loc">1061 Budapest, Andrássy út 12.</string>
+    <string name="zoocafe_loc">1053 Budapest, Fejér György u. 3.</string>
+    <string name="csopa_loc">1222  Budapest, Nagytétényi út 37-43.</string>
+
+    <!-- Tabs -->
+    <string name="sight_tab">Sights</string>
+    <string name="lookout_tab">Lookouts</string>
+    <string name="restaurant_tab">Restaurants</string>
+    <string name="kids_tab">With Kids</string>
+
+</resources>
