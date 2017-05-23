@@ -11,7 +11,7 @@
         app:tabGravity="fill"
         app:tabIndicatorColor="@color/light"
         app:tabMode="scrollable"
-        app:tabSelectedTextColor="#767676"
+        app:tabSelectedTextColor="@color/colorAccent"
         app:tabTextColor="@color/light"
         style="@style/tab_layout" />
 

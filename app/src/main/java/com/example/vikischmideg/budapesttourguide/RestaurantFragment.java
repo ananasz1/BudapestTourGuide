@@ -37,7 +37,6 @@ public class RestaurantFragment extends Fragment {
 
         listView.setAdapter(itemsAdapter);
 
-
         return rootView;
     }
 }
